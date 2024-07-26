@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 // ganti info bot dibawah ini
 global.botName = "Xtree 2.9"
-global.ownerName = "BLANK"
+global.ownerName = "ARTHUR SASAKI"
 global.botNumber = "6289510342073"
 global.devNumber = ["6282230049011"]
 
