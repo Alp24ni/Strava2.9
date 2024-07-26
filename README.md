@@ -40,7 +40,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Emperordagoat/Strava2.9
+git clone https://github.com/Alp24ni/Strava2.9
 cd Strava2.9
 yarn install 
 npm i
